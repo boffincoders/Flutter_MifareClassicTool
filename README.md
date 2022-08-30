@@ -1,21 +1,6 @@
-# flutter_mifare_classic_tool
-
-Flutter Mifare Classic Tool
+# Flutter Mifare Classic Tool
 
 Application build with flutter
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
 
 ## Project Title
 
@@ -50,3 +35,18 @@ Flutter Mifare Classic Tool
     <img src="app_screen_shot/write_data_ultralight_view_after_select_sector_index_and_block_index.png" width="30%"> <img src="app_screen_shot/data_written_successfully_on_ultralight.png" width="30%"> <img src="app_screen_shot/selected_sector_index_and_block_index_data_is_empty_message.png" width="30%"> 
     <img src="app_screen_shot/write_data_mifare_classic_1K_session_start_view.png" width="30%"> <img src="app_screen_shot/data_Written_successfully_on_mifare_classic_1K.png" width="30%"> <img src="app_screen_shot/nfc_lost_connection_while_write_data_on_mifare_classic_1k.png" width="30%">
 </pre>
+## Getting Started
+  - If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+  - Fetch latest source code from master branch.
+ 
+ ```
+ git clone https://github.com/boffincoders/grocery-app-concept.git
+ ```  
+ - Run the app with Android Studio or Visual Studio. Or the command line.
+ 
+ ```
+ flutter pub get
+ ```
+ ```
+ flutter run
+ ```
