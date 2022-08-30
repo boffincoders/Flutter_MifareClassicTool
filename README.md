@@ -30,6 +30,7 @@ Flutter Mifare Classic Tool
 ## Project Requirements and Dependencies
 
 * NFC Permissions required in AndroidManifest.xml
+
   uses-permission android:name="android.permission.NFC"
   uses-permission android:name="android.permission.NFC_PREFERRED_PAYMENT_INFO"
   uses-permission android:name="android.permission.NFC_TRANSACTION_EVENT"
