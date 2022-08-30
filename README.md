@@ -45,7 +45,7 @@ Flutter Mifare Classic Tool
 
 <pre>
     <img src="app_screen_shot/splash_screen.png" width="30%"> <img src="app_screen_shot/home_screen.png" width="30%"> <img src="app_screen_shot/read_data_screen_initial_view.png" width="30%">
-    <img src="app_screen_shot/read_data_session_start.png" width="30%"> <img src="app_screen_shot/read_data_session_start_and_nfc_connection_lost_view.png" width="30%"> <img src="app_screen_shot/read_data_successfully_view.png" width="30%">
+    <img src="app_screen_shot/read_data_session_start.png" width="30%"> <img src="app_screen_shot/read_data_session_start_and_nfc_connection_lost_view.png" width="30%"> <img src="app_screen_shot/read_data_successfully_view.png" width="30%"> <img src="app_screen_shot/data_view_ascii_form.png.png" width="30%">
     <img src="app_screen_shot/write_data_ultralight_select_sector_index_view.png" width="30%"> <img src="app_screen_shot/write_data_ultralight_select_block_index_view_after_selection_of_sector_index.png" width="30%"> <img src="app_screen_shot/write_data_ultralight_view_after_select_sector_index_and_block_index.png" width="30%">
     <img src="app_screen_shot/data_written_successfully_on_ultralight.png" width="30%"> <img src="app_screen_shot/selected_sector_index_and_block_index_data_is_empty_message.png" width="30%"> <img src="app_screen_shot/write_data_mifare_classic_1K_session_start_view.png" width="30%">
     <img src="app_screen_shot/data_Written_successfully_on_mifare_classic_1K.png" width="30%"> <img src="app_screen_shot/nfc_lost_connection_while_write_data_on_mifare_classic_1k.png" width="30%">
