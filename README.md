@@ -18,11 +18,12 @@ Application build with flutter
   <uses-permission android:name="android.permission.NFC_TRANSACTION_EVENT"/>
   <uses-feature android:name="android.hardware.nfc"  android:required="true"/>
   ```
-* [nfc_manager: ^3.1.1](https://pub.dev/packages/nfc_manager)
 * See and write code in
   /android/app/src/main/kotlin/com/example/flutter_mifare_classic_tool/MainActivity.kt for check
   android device is NFC Supportable, NFC is enable from the phone and stop the mobile default NFC
   Tool which is working in background.(Call from flutter lib folder by creating method channels)
+* [nfc_manager: ^3.1.1](https://pub.dev/packages/nfc_manager)
+
 
 ## App Screen Shot
 
