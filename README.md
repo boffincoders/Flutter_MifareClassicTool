@@ -44,8 +44,7 @@ Flutter Mifare Classic Tool
 ## App Screen Shot
 
 <pre>
-    <img src="app_screen_shot/splash_screen.png" width="30%"> 
-    <img src="app_screen_shot/home_screen.png" width="30%">    
+    <img src="app_screen_shot/splash_screen.png" width="30%"> <img src="app_screen_shot/home_screen.png" width="30%">    
     <img src="app_screen_shot/read_data_screen_initial_view.png" width="30%">
     <img src="app_screen_shot/read_data_session_start.png" width="30%">
     <img src="app_screen_shot/read_data_session_start_and_nfc_connection_lost_view.png" width="30%">
