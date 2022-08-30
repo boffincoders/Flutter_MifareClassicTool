@@ -12,10 +12,12 @@ Application build with flutter
 
 * NFC Permissions required in AndroidManifest.xml
 
-  uses-permission android:name="android.permission.NFC"
-  uses-permission android:name="android.permission.NFC_PREFERRED_PAYMENT_INFO"
-  uses-permission android:name="android.permission.NFC_TRANSACTION_EVENT"
-  uses-feature android:name="android.hardware.nfc"  android:required="true"
+  ```xml
+  <uses-permission android:name="android.permission.NFC"/>
+  <uses-permission android:name="android.permission.NFC_PREFERRED_PAYMENT_INFO"/>
+  <uses-permission android:name="android.permission.NFC_TRANSACTION_EVENT"/>
+  <uses-feature android:name="android.hardware.nfc"  android:required="true"/>
+  ```
 * [nfc_manager: ^3.1.1](https://pub.dev/packages/nfc_manager)
 * See and write code in
   /android/app/src/main/kotlin/com/example/flutter_mifare_classic_tool/MainActivity.kt for check
