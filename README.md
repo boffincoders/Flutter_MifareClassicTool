@@ -36,7 +36,7 @@ Application build with flutter
   - Fetch latest source code from master branch.
  
  ```
- git clone https://github.com/boffincoders/grocery-app-concept.git
+ git clone https://github.com/boffincoders/Flutter_MifareClassicTool.git
  ```  
  - Run the app with Android Studio or Visual Studio. Or the command line.
  
