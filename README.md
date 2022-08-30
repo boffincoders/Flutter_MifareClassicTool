@@ -2,10 +2,6 @@
 
 Application build with flutter
 
-## Project Title
-
-Flutter Mifare Classic Tool
-
 ## Project Description
 
 * Read data from the mifare classic 1k and write on mifare ultralight and mifare classic 1k.
