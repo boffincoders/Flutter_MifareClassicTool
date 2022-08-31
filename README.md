@@ -25,7 +25,7 @@ Application build with flutter
 * [nfc_manager: ^3.1.1](https://pub.dev/packages/nfc_manager)
 
 
-## App Screen Shot
+## Screenshots
 
 <pre>
     <img src="app_screen_shot/splash_screen.png" width="30%"> <img src="app_screen_shot/home_screen.png" width="30%"> <img src="app_screen_shot/read_data_screen_initial_view.png" width="30%">
